@@ -4,7 +4,7 @@
 <a href="">Launcher en Jar(Indisponible)</a>
 <p> </p>
 <a href="discord.gg/vitteria">Notre Discord</a>
-  <p> </p>
+<p> </p>
 <h3> Merci de lire cette page </h3>
 Launcher officiel de la v4 de Vitteria
 </h2> Ce launcher à été dévellopé par @Fext et appartient à l'entreprise Vitteria </h2>

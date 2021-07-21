@@ -1,5 +1,5 @@
 <h1> Télécharger le launcher :<h1>
-<a href="https://www.mediafire.com/file/82g9hjer7hfrmih/Launcher+Vitteria.exe/file">Launcher en Exe</a>
+<a href="https://www.dropbox.com/s/7gh0jqpuv82jpde/Launcher%20Vitteria%20Installeur.exe?dl=0">Launcher en Exe</a>
 <p> </p>
 <a href="">Launcher en Jar(Indisponible)</a>
 <p> </p>
